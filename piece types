@@ -1,0 +1,8 @@
+piece classification
+in-out ness 
+- standard, in , out , in , out
+- opposite in , in , out , out
+- pointer out , in , in , in 
+- club out , out , out , in 
+- cross - out , out , out , out
+- cave - in , in , in , in 
