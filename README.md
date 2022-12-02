@@ -6,9 +6,14 @@ my hypothesis is that for normal jigsaws this should be possible without super a
 instead using the same techniques humans use to solve jigsaws
 
 piece type
+
 relative lug position
+
 corner angle
+
 portrait v landscape
+
+lug skew
 
 
 ultimately take a picture of a real world jigsaw and the remaining pieces to fit and tell you which to put where
