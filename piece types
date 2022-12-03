@@ -6,3 +6,13 @@ in-out ness
 - club out , out , out , in 
 - cross - out , out , out , out
 - cave - in , in , in , in 
+
+edge pieces
+
+edge - out - in - out
+edge - out - out - out
+edge - out - out - in 
+edge - in - in - in 
+egde - in - out - in 
+edge - in - out - out
+edge - edge - 
